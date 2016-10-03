@@ -1,2 +1,2 @@
 # KR2
-The exercises from "The C Programming Language" 2nd edition by Kernighan and Ritchie
+I'm learning C and 'K&R2' is meant to be the go to book for this, so I'm (hopefully) completing all the exercises.
